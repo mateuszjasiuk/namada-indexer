@@ -1,0 +1,9 @@
+{
+  "packages": {
+    "webserver": {}
+  },
+  "release-type": "rust",
+  "include-component-in-tag": false,
+  "include-v-in-tag": true,
+  "plugins": ["cargo-workspace"]
+}
