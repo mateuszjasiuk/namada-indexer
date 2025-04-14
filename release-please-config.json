@@ -1,0 +1,9 @@
+{
+  "release-type": "rust",
+  "include-component-in-tag": false,
+  "plugins": ["cargo-workspace"],
+  "packages": {
+    "chain": {},
+    "pos": {}
+  }
+}
