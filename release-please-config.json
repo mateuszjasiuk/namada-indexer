@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "webserver": {},
+    "chain": {}
+  },
+  "component": "namada-indexer",
+  "release-type": "rust",
+  "include-component-in-tag": false,
+  "include-v-in-tag": true
+}
