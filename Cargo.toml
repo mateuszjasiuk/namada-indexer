@@ -1,3 +1,8 @@
+[package]
+name = "namada-indexer"
+version = "2.4.4"
+release = false
+
 [workspace]
 resolver = "2"
 
@@ -8,7 +13,6 @@ authors = ["Heliax <hello@heliax.dev>"]
 edition = "2024"
 license = "GPL-3.0"
 readme = "README.md"
-version = "2.4.4"
 
 [workspace.dependencies]
 axum = { version = "0.7.2", features = ["tower-log", "http2"] }
